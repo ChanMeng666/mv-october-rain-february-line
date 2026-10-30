@@ -17,7 +17,7 @@ Every frame is a pure function of time: a web page draws frame `t`, headless Chr
 | Source | [`films/01-october-rain/`](../films/01-october-rain) | [`films/02-february-line/`](../films/02-february-line) |
 | Song | [`songs/01-october-rain.mp3`](../songs/01-october-rain.mp3) | [`songs/02-february-line.mp3`](../songs/02-february-line.mp3) |
 
-The finished MP4s are larger than GitHub's 100 MB per-file limit, so they are not in the tree. Download them from the [latest release](https://github.com/ChanMeng666/october-rain-february-line-mv/releases/latest).
+The finished MP4s are larger than GitHub's 100 MB per-file limit, so they are not in the tree. Download them from the [latest release](https://github.com/ChanMeng666/mv-october-rain-february-line/releases/latest).
 
 ### 十月的微雨 · A Drizzle in October
 
